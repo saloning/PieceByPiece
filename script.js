@@ -66,6 +66,10 @@ const pieceFacts = [
     image: "images/journaling.jpg",
     fact: "Journaling gives me a quiet space to slow down and process my thoughts, turning moments that might otherwise pass by into something more intentional and meaningful."
   },
+  {
+    image: "images/sports.jpg",
+    fact: "Playing sports reminds me how much I enjoy the balance between discipline and just having fun."
+  },
   null,
   null,
   null
