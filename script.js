@@ -62,6 +62,10 @@ const pieceFacts = [
     image: "images/animals.jpg",
     fact: "I have always liked animals because they are easy to be around. There is no pressure to say or do the right thing, which makes it feel really genuine and comforting."
   },
+  {
+    image: "images/journaling.jpg",
+    fact: "Journaling gives me a quiet space to slow down and process my thoughts, turning moments that might otherwise pass by into something more intentional and meaningful."
+  },
   null,
   null,
   null
